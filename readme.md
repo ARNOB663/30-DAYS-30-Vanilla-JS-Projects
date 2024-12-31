@@ -131,4 +131,4 @@ Create a Whack A Mole game using JavaScript and CSS.
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/30-days-30-js.git
+   git clone git@github.com:ARNOB663/30-DAYS-30-Vanilla-JS-Projects.git
